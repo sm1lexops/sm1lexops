@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on DevOps soft skills
+- 🌱 I’m currently learning AWS Cloud Project Bootcamp
 
 <!--
 **sm1lexops/sm1lexops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
