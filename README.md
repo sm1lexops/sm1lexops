@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on DevOps soft skills
+- 🔭 I’m currently working on DevOps hard skills
 - 🌱 I’m currently learning AWS Cloud Project Bootcamp
 
 <!--
