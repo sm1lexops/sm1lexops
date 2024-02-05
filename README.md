@@ -60,7 +60,9 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
   <img align="center" alt="MReis-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="MReis-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 </div>
+
 ## 📚 Featured Repositories
+
 - [Cloud Resume Challenge](https://github.com/sm1lexops/aws-bootcamp-cruddur-2023): Want to build your **Resume Website** in the AWS, start here.
 
 - [AWS Bootcamp Project](https://github.com/sm1lexops/aws-bootcamp-cruddur-2023): Want to learn **Cloud Technology**, start here.
