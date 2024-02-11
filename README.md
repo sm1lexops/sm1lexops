@@ -1,8 +1,8 @@
-# Welcome to *Aleksey Smirnov's* GitHub Portfolio 👋
+# Welcome to *My* GitHub Portfolio 👋
 
 ## About Me
 
-I am a driven IT specialist, dedicated to enhancing my technical, analytical, and communication skills on a daily basis. Experienced in a wide range of IT specialties, I have expertise in networking, system administration, eDMS, Cybersecurity (DLP, SIEM, NGFW, SAST, DAST tools, networking, OS hardening), and developing skills in Cloud technologies and DevOps practices and methodologies.
+Motivated IT specialist with excellent technical, analytical, and communication skills and many years of experience in a wide range of IT specialties, such as networking, system administration, Cybersecurity (DLP, SIEM, NGFW, AV, SAST, DAST tools), eDMS. I'm constantly gaining new knowledge and developing skills in the field of cloud technologies and DevSecOps.
 
 **"Knowledge will break the chains of slavery."**
 
