@@ -63,7 +63,7 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 ## 📚 Featured Repositories
 
-- [Cloud Resume Challenge](https://github.com/sm1lexops/aws-bootcamp-cruddur-2023): Want to build your **Resume Website** in the AWS, start here.
+- [Cloud Resume Challenge](https://github.com/sm1lexops/cloud-resume-challenge): Want to build your **Resume Website** in the AWS, start here.
 
 - [AWS Bootcamp Project](https://github.com/sm1lexops/aws-bootcamp-cruddur-2023): Want to learn **Cloud Technology**, start here.
 
